@@ -15,5 +15,5 @@ release.properties
 classes/
 
 .DS_Store
-
+.test
 *.offset
